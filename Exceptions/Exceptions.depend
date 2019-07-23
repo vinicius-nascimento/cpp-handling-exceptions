@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1542202654 source:c:\users\vinícius nascimento\desktop\handlingexceptions\exceptions\cliente.cpp
+	"exceptions.h"
+	<clocale>
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1542207792 c:\users\vinícius nascimento\desktop\handlingexceptions\exceptions\exceptions.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<ctime>
+	<clocale>
+
+1542199054 source:d:\documentos\projetos\handlingexceptions\exceptions\cliente.cpp
+	"exceptions.h"
+	<clocale>
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1542204192 d:\documentos\projetos\handlingexceptions\exceptions\exceptions.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<ctime>
+	<clocale>
+
