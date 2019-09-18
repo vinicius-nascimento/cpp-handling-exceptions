@@ -7,7 +7,7 @@ Trabalho de Linguagens de Programação. Tratamento de Exceções em linguagem C
 
 ## Requisitos
 
-Para compilar e executar os projetos é necessária a biblioteca JagPDF para C++. Pode ser baixada [link](http://www.jagpdf.org/downloads.htm "JagPDF") a seguir.
+Para compilar e executar os projetos é necessária a biblioteca JagPDF para C++. Pode ser baixada no [link](http://www.jagpdf.org/downloads.htm "JagPDF") a seguir.
 
 
 ## Autores
